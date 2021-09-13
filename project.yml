@@ -593,11 +593,11 @@ homepage:
     - title: Cloud Manager API
       links:
         - title: Get started
-          url: getting_started_before.html
+          url: https://docs.netapp.com/us-en/cloud-manager-automation/cm/getting_started_before.html
         - title: API reference
-          url: api_ref_resources.html
+          url: https://docs.netapp.com/us-en/cloud-manager-automation/cm/api_ref_resources.html
         - title: API workflows
-          url: workflow_processes.html
+          url: https://docs.netapp.com/us-en/cloud-manager-automation/cm/workflow_processes.html
     - title: Blogs & community
       links:
         - title: NetApp Community
