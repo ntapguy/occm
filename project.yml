@@ -566,6 +566,8 @@ homepage:
           url: task_provisioning_ontap.html
         - title: Replicate data
           url: task_replicating_data.html
+        - title: Tier data to the cloud
+          url: concept_cloud_tiering.html
     - title: Cloud Backup
       links:
         - title: Back up Cloud Volumes ONTAP to S3
